@@ -1,7 +1,7 @@
 # MMM-Dublin-Bus-Real-Scrape
 Magic Mirror Module - Dublin Bus Real Scrape
 
-This an extension for the [MagicMirror](https://github.com/MichMich/MagicMirror). It displays bus times for a configurable stop. This uses the [Dublin Bus RTPI](https://www.dublinbus.ie/RTPI/Sources-of-Real-Time-Information/) website and scraping the real time information data, therefor is only useful within Dublin, Ireland and surrounding areas.
+This an extension for the [MagicMirror](https://github.com/MichMich/MagicMirror). It displays bus times for a configurable stop number. This uses the [Dublin Bus RTPI](https://www.dublinbus.ie/RTPI/Sources-of-Real-Time-Information/) website and scraping the real time information data, therefor is only useful within Dublin, Ireland and surrounding areas.
 
 ## Installation
 
