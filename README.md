@@ -34,6 +34,6 @@ The following properties can be configured, as well as any of the default Magic 
 
 | Option 			| Default 			| Description 																																																								|
 |-------------------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|`mode`				| `module`				|The options supported are either `module`, `alert` or `enhanced`. This sets how the bus times are to be displayed. In `alert` mode all times are displayed using Magic-Mirror's notification system. In `module` mode it is displayed on the main screen and in `enhanced` mode you get both the module view and the alert. 	|
 |`stop` 		| _REQUIRED_ 	|Stop numbers can be found on the [Dublin Bus Route Planner](https://www.dublinbus.ie/RTPI)																																		|
+|`mode`				| `module`				|The options supported are either `module`, `alert` or `enhanced`. This sets how the bus times are to be displayed. In `alert` mode all times are displayed using Magic-Mirror's notification system. In `module` mode it is displayed on the main screen and in `enhanced` mode you get both the module view and the alert. 	|
 |`interval` 	| `10000` 			|An `int` value to set the API polling interval in seconds																																													|
